@@ -1,16 +1,26 @@
 {
 	"presales": [{
+		"name": "CryptoFarm",
+		"tokenAddress": "CryptoFarm",
+		"description": "CryptoFarm is an NFT-gaming project, where you can grow your NFT-farm and earn rewards! CryptoFarm has multiple products: NFT-launchpad, where user can mint exclusive NFTs (sometimes for free), NFT-marketplace, where users can see all their NFTs and trade them, CryptoFarm game, where users can develop their farms, grow plants and earn rewards. The game was inspired by Farmville with addition of P2E elements and NFTs!",
+		"logo": "https://i.imgur.com/voK8QF5.png",
+		"presaleAddress": "CryptoFarm",
+		"colour": "var(--purple-gradient)",
+		"website": "https://CryptoFarm.club",
+		"telegram": "https://t.me/farmnftgame",
+		"twitter": "https://twitter.com/CRYPTOFARMNFT",
+		"date": "2/5 18:00UTC"
+	}, {
 		"name": "Madlads",
-		"tokenAddress": "tba",
+		"tokenAddress": "Madlads",
 		"description": "The MadWorld game is a Play-to-earn NFT MMO that will allow holders of the MadLads collection of NFTs to participate. It will count with several minigames that will give payouts to players that top the leaderboards. The game will also have an in game casino and the in-game currency will be the MadToken. The collection of NFTs are based on pop-culture characters and feature over 1000 original designs, 20 of these characters will be playable in-game.",
 		"logo": "https://peanutbutter.io/static/media/madlads.658476c6.png",
-		"presaleAddress": "tba",
+		"presaleAddress": "Madlads",
 		"colour": "var(--orange-gradient)",
 		"website": "https://www.madlads.finance",
 		"telegram": "https://t.me/MadWorldCrypto",
 		"twitter": "https://twitter.com/MadWorldCrypto",
-		"date": "Feb",
-		"status": "upcoming"
+		"date": "Feb"
 	}, {
 		"name": "MetaBurn",
 		"tokenAddress": "Metaburn",
@@ -21,8 +31,7 @@
 		"website": "https://metaburn.game/",
 		"telegram": "https://t.me/metaburn",
 		"twitter": "https://twitter.com/MetaBurnBSC",
-		"date": "FEB",
-		"status": "upcoming",
+		"date": "Feb",
 		"type": "normal"
 	}, {
 		"name": "Coinunity",
@@ -34,7 +43,6 @@
 		"website": "https://coinunity.one/",
 		"telegram": "https://t.me/CoinunityBSC",
 		"twitter": "",
-		"status": "completed",
 		"type": "normal"
 	}]
 }
