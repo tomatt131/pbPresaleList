@@ -1,0 +1,49 @@
+{
+[
+    {
+        name: "Metasino",
+        tokenAddress: 'Metasino',
+        description: "Metasino is the first truly decentralized Casino/P2E ecosystem on BSC that is metaverse orinented. With the use of 3D/VR players can access the casino and get to play games of their chioces to earn in casino tokens or NFTs. Casino tokens can be staked and holders who stake will gain an overwhelming APY. In Metasino, the games(slot,poker) will be minted as NFTs and players who buy this NFT will earn passive income from each game played on it. Max loss limit per day and losers recieve an NFT airdrops of varying value.",
+        logo: metaCasino,
+        presaleAddress: "0xC2F3BD69E9e0d65db7B27730ADE790dd6a6413ec",
+        colour: "var(--orange-gradient)",
+        website: "https://www.metasino.live/",
+        telegram: "https://t.me/MetasinoChat",
+        twitter: "https://twitter.com/metasinolive",
+        date: "24.01",
+        status: "ongoing",
+        type: "whitelisted"
+    },
+    {
+        name: "MetaBurn",
+        tokenAddress: 'Metaburn',
+        description: "MetaBurn (xBM) is a 2nd generation BurningMoon reward token that will be used in our upcoming MetaVerse and automatically reflects rewards in BurningMoon. \n" +
+            "\n" +
+            "xBM and BM share the same supply.\n" +
+            "\n" +
+            "xBM starts with  a total supply of 0, but can be minted using sBM or BM or BNB. On Launch 1 BM equals 2 xBM, and 1 sBM equals 1 xBM. The more xBM are burned, the less xBM you get for converting BM or sBM to xBM. If 50% of all xBM are burned, you get a conversion rate of 1 xBM per BM respectively.",
+        logo: metaburn,
+        presaleAddress: "MetaBurn",
+        colour: "var(--purple-gradient)",
+        website: "https://metaburn.game/",
+        telegram: "https://t.me/metaburn",
+        twitter: "https://twitter.com/MetaBurnBSC",
+        date: "FEB",
+        status: "upcoming",
+        type: "normal"
+    },
+    {
+        name: "Coinunity",
+        tokenAddress: '0x5D7359B82d221F8d7C335e2d2b02543CB9450c72',
+        description: coinunityText,
+        logo: coinUnity,
+        presaleAddress: "0x6f616da2c6beab70579d1c2edd1c7c7b1fe6efa7",
+        colour: "var(--purple-gradient)",
+        website: "https://coinunity.one/",
+        telegram: "https://t.me/CoinunityBSC",
+        twitter: null,
+        status: "completed",
+        type: "normal"
+    },
+]
+}
