@@ -15,7 +15,7 @@
 		"tokenAddress": "Metaburn",
 		"description": "MetaBurn (xBM) is a 2nd generation BurningMoon reward token that will be used in our upcoming MetaVerse and automatically reflects rewards in BurningMoon. \nxBM and BM share the same supply.\nBM starts with a total supply of 0, but can be minted using sBM or BM or BNB. On Launch 1 BM equals 2 xBM, and 1 sBM equals 1 xBM. The more xBM are burned, the less xBM you get for converting BM or sBM to xBM. If 50% of all xBM are burned, you get a conversion rate of 1 xBM per BM respectively.",
 		"logo": "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
-		"presaleAddress": "0x5F56516f8283AB1c0E08B79cA0509144Cc639522",
+		"presaleAddress": "Metaburn",
 		"colour": "var(--purple-gradient)",
 		"website": "https://metaburn.game/",
 		"telegram": "https://t.me/metaburn",
