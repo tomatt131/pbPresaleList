@@ -1,37 +1,50 @@
-{
-	"presales": [ {
-		"name": "Madlads",
-		"tokenAddress": "Madlads",
-		"description": "The MadWorld game is a Play-to-earn NFT MMO that will allow holders of the MadLads collection of NFTs to participate. It will count with several minigames that will give payouts to players that top the leaderboards. The game will also have an in game casino and the in-game currency will be the MadToken. The collection of NFTs are based on pop-culture characters and feature over 1000 original designs, 20 of these characters will be playable in-game.",
-		"logo": "https://i.imgur.com/c0EkK9k.png",
-		"presaleAddress": "Madlads",
-		"colour": "var(--orange-gradient)",
-		"website": "https://www.madlads.finance",
-		"telegram": "https://t.me/MadWorldCrypto",
-		"twitter": "https://twitter.com/MadWorldCrypto",
-		"date": "March"
-	}, {
-		"name": "MetaBurn",
-		"tokenAddress": "Metaburn",
-		"description": "MetaBurn (xBM) is a 2nd generation BurningMoon reward token that will be used in our upcoming MetaVerse and automatically reflects rewards in BurningMoon. \nxBM and BM share the same supply.\nBM starts with a total supply of 0, but can be minted using sBM or BM or BNB. On Launch 1 BM equals 2 xBM, and 1 sBM equals 1 xBM. The more xBM are burned, the less xBM you get for converting BM or sBM to xBM. If 50% of all xBM are burned, you get a conversion rate of 1 xBM per BM respectively.",
-		"logo": "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
-		"presaleAddress": "Metaburn",
-		"colour": "var(--purple-gradient)",
-		"website": "https://metaburn.game/",
-		"telegram": "https://t.me/metaburn",
-		"twitter": "https://twitter.com/MetaBurnBSC",
-		"date": "March",
-		"type": "normal"
-	}, {
-		"name": "Coinunity",
-		"tokenAddress": "0x5D7359B82d221F8d7C335e2d2b02543CB9450c72",
-		"description": "Coinunity is a tweet-to-earn system that will reward shiller and investors at the same time. The investor is rewarded for holding through self-reflections. But also daily transactions enable rewards and daily giveaways, so you even get more benefits. Not only by holding, but being an active part of the Coinunity.",
-		"logo": "https://peanutbutter.io/static/media/coinunity.83e8fa6c.png",
-		"presaleAddress": "0x6f616da2c6beab70579d1c2edd1c7c7b1fe6efa7",
-		"colour": "var(--purple-gradient)",
-		"website": "https://coinunity.one/",
-		"telegram": "https://t.me/CoinunityBSC",
-		"twitter": "",
-		"type": "normal"
-	}]
+{	"ral": {
+		"presales": [{
+			presaleAddress: '0xf99D0E0C88dD7D955bc83F2eD7A69fefD8e89dde',
+			tokenAddress: '',
+			name: "MetaBurn/xBM",
+			description: "MetaBurn (xBM) is a BurningMoon (BM) reward token that will be used in our upcoming Metaverse games and applications. It automatically reflects rewards directly in BurningMoon tokens and will be used as a governance token in the BurningMoon ecosystem. MetaBurn shares its supply with BurningMoon. Every MetaBurn token that is minted burns Burning Moon tokens, thereby reducing the total supply of Burning Moon and increasing the supply of MetaBurn. Every trade burns a small amount of MetaBurn tokens, while its reward pool does not decrease(!). This continuously increases the relative reward value of every MetaBurn token in circulation. It incentives to acquire MetaBurn tokens early, which generates volume, burn and rewards. MetaBurn rewards are dynamic and grant at least twice the rewards of regular BurningMoon tokens. After launch, MetaBurn (xBM) can be minted through BNB, BurningMoon (BM) or Sacrificed BurningMoon (sBM) tokens on https://metaburn.game/ and can be traded on PancakeSwap.",
+			logo: "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
+			website: "https://metaburn.game/",
+			telegram: "https://t.me/metaburn",
+			twitter: "https://twitter.com/MetaBurnBSC",
+		}]
+	},
+	"pb": {
+		"presales": [ {
+			"name": "Madlads",
+			"tokenAddress": "Madlads",
+			"description": "The MadWorld game is a Play-to-earn NFT MMO that will allow holders of the MadLads collection of NFTs to participate. It will count with several minigames that will give payouts to players that top the leaderboards. The game will also have an in game casino and the in-game currency will be the MadToken. The collection of NFTs are based on pop-culture characters and feature over 1000 original designs, 20 of these characters will be playable in-game.",
+			"logo": "https://i.imgur.com/c0EkK9k.png",
+			"presaleAddress": "Madlads",
+			"colour": "var(--orange-gradient)",
+			"website": "https://www.madlads.finance",
+			"telegram": "https://t.me/MadWorldCrypto",
+			"twitter": "https://twitter.com/MadWorldCrypto",
+			"date": "March"
+		}, {
+			"name": "MetaBurn",
+			"tokenAddress": "Metaburn",
+			"description": "MetaBurn (xBM) is a 2nd generation BurningMoon reward token that will be used in our upcoming MetaVerse and automatically reflects rewards in BurningMoon. \nxBM and BM share the same supply.\nBM starts with a total supply of 0, but can be minted using sBM or BM or BNB. On Launch 1 BM equals 2 xBM, and 1 sBM equals 1 xBM. The more xBM are burned, the less xBM you get for converting BM or sBM to xBM. If 50% of all xBM are burned, you get a conversion rate of 1 xBM per BM respectively.",
+			"logo": "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
+			"presaleAddress": "Metaburn",
+			"colour": "var(--purple-gradient)",
+			"website": "https://metaburn.game/",
+			"telegram": "https://t.me/metaburn",
+			"twitter": "https://twitter.com/MetaBurnBSC",
+			"date": "March",
+			"type": "normal"
+		}, {
+			"name": "Coinunity",
+			"tokenAddress": "0x5D7359B82d221F8d7C335e2d2b02543CB9450c72",
+			"description": "Coinunity is a tweet-to-earn system that will reward shiller and investors at the same time. The investor is rewarded for holding through self-reflections. But also daily transactions enable rewards and daily giveaways, so you even get more benefits. Not only by holding, but being an active part of the Coinunity.",
+			"logo": "https://peanutbutter.io/static/media/coinunity.83e8fa6c.png",
+			"presaleAddress": "0x6f616da2c6beab70579d1c2edd1c7c7b1fe6efa7",
+			"colour": "var(--purple-gradient)",
+			"website": "https://coinunity.one/",
+			"telegram": "https://t.me/CoinunityBSC",
+			"twitter": "",
+			"type": "normal"
+		}]
+	}
 }
