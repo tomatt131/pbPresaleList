@@ -1,13 +1,13 @@
 {	"ral": {
 		"presales": [{
-			presaleAddress: '0xf99D0E0C88dD7D955bc83F2eD7A69fefD8e89dde',
-			tokenAddress: '',
-			name: "MetaBurn/xBM",
-			description: "MetaBurn (xBM) is a BurningMoon (BM) reward token that will be used in our upcoming Metaverse games and applications. It automatically reflects rewards directly in BurningMoon tokens and will be used as a governance token in the BurningMoon ecosystem. MetaBurn shares its supply with BurningMoon. Every MetaBurn token that is minted burns Burning Moon tokens, thereby reducing the total supply of Burning Moon and increasing the supply of MetaBurn. Every trade burns a small amount of MetaBurn tokens, while its reward pool does not decrease(!). This continuously increases the relative reward value of every MetaBurn token in circulation. It incentives to acquire MetaBurn tokens early, which generates volume, burn and rewards. MetaBurn rewards are dynamic and grant at least twice the rewards of regular BurningMoon tokens. After launch, MetaBurn (xBM) can be minted through BNB, BurningMoon (BM) or Sacrificed BurningMoon (sBM) tokens on https://metaburn.game/ and can be traded on PancakeSwap.",
-			logo: "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
-			website: "https://metaburn.game/",
-			telegram: "https://t.me/metaburn",
-			twitter: "https://twitter.com/MetaBurnBSC",
+			"presaleAddress": '0xf99D0E0C88dD7D955bc83F2eD7A69fefD8e89dde',
+			"tokenAddress": '',
+			"name": "MetaBurn/xBM",
+			"description": "MetaBurn (xBM) is a BurningMoon (BM) reward token that will be used in our upcoming Metaverse games and applications. It automatically reflects rewards directly in BurningMoon tokens and will be used as a governance token in the BurningMoon ecosystem. MetaBurn shares its supply with BurningMoon. Every MetaBurn token that is minted burns Burning Moon tokens, thereby reducing the total supply of Burning Moon and increasing the supply of MetaBurn. Every trade burns a small amount of MetaBurn tokens, while its reward pool does not decrease(!). This continuously increases the relative reward value of every MetaBurn token in circulation. It incentives to acquire MetaBurn tokens early, which generates volume, burn and rewards. MetaBurn rewards are dynamic and grant at least twice the rewards of regular BurningMoon tokens. After launch, MetaBurn (xBM) can be minted through BNB, BurningMoon (BM) or Sacrificed BurningMoon (sBM) tokens on https://metaburn.game/ and can be traded on PancakeSwap.",
+			"logo": "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
+			"website": "https://metaburn.game/",
+			"telegram": "https://t.me/metaburn",
+			"twitter": "https://twitter.com/MetaBurnBSC",
 		}]
 	},
 	"pb": {
