@@ -8,7 +8,8 @@
 			"logo": "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
 			"website": "https://metaburn.game/",
 			"telegram": "https://t.me/metaburn",
-			"twitter": "https://twitter.com/MetaBurnBSC"
+			"twitter": "https://twitter.com/MetaBurnBSC",
+			"colour": "var(--purple-gradient)"
 		}]
 	},
 	"pb": {
@@ -23,19 +24,7 @@
 			"telegram": "https://t.me/MadWorldCrypto",
 			"twitter": "https://twitter.com/MadWorldCrypto",
 			"date": "March"
-		}, {
-			"name": "MetaBurn",
-			"tokenAddress": "Metaburn",
-			"description": "MetaBurn (xBM) is a 2nd generation BurningMoon reward token that will be used in our upcoming MetaVerse and automatically reflects rewards in BurningMoon. \nxBM and BM share the same supply.\nBM starts with a total supply of 0, but can be minted using sBM or BM or BNB. On Launch 1 BM equals 2 xBM, and 1 sBM equals 1 xBM. The more xBM are burned, the less xBM you get for converting BM or sBM to xBM. If 50% of all xBM are burned, you get a conversion rate of 1 xBM per BM respectively.",
-			"logo": "https://peanutbutter.io/static/media/emblem.3bc07ae1.png",
-			"presaleAddress": "Metaburn",
-			"colour": "var(--purple-gradient)",
-			"website": "https://metaburn.game/",
-			"telegram": "https://t.me/metaburn",
-			"twitter": "https://twitter.com/MetaBurnBSC",
-			"date": "March",
-			"type": "normal"
-		}, {
+		},{
 			"name": "Coinunity",
 			"tokenAddress": "0x5D7359B82d221F8d7C335e2d2b02543CB9450c72",
 			"description": "Coinunity is a tweet-to-earn system that will reward shiller and investors at the same time. The investor is rewarded for holding through self-reflections. But also daily transactions enable rewards and daily giveaways, so you even get more benefits. Not only by holding, but being an active part of the Coinunity.",
